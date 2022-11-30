@@ -1,7 +1,7 @@
-*Nov 21, 2022 - Franky Jr Blondeel*
+*Nov 29, 2022 - Franky Jr Blondeel*
 
 
-# Frankito's Delicacies - a restaurant ordering app
+# Street Triple Dreams - a first responsive experience
 
 ## Overview
 
