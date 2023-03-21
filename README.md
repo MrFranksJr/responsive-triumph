@@ -12,7 +12,7 @@ I'm currently refreshing my entire JavaScript knowledge through a course on [Scr
 So I've been working on mobile webdesign these last couple of weeks...
 Progress has been slower than usual (a lot happening in life). Either way, I've set the first steps using media queries, relative units (em, rem, percentages) as well as more extensive Flexbox features (flex-wrap/gap).
 
-On top of everythinh else, this was just a very good exercise in 'mobile-first' thinking. Which I feel is probably the best way to go about many webdesign assignments these days.
+On top of everything else, this was just a very good exercise in 'mobile-first' thinking. Which I feel is probably the best way to go about many webdesign assignments these days.
 <p align="center">
 <img alt="concepts" src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/responsive-triumph/concepts.png">
 </p>
